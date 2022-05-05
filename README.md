@@ -4,6 +4,6 @@ Uma análise básica onde escolho um ínicio e um fim, pegando as cotações e v
 
 Adição de Indicadores e médias .
 
-Utilizo alguns pacotes e dentre ele o quantmod, que pode ser acessado ao seu site.
+Utilizo alguns pacotes e dentre eles o quantmod, que pode ser acessado em seu site.
 
 https://www.quantmod.com/
